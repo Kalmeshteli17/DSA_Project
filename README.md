@@ -48,20 +48,25 @@ Here are some key functions implemented in the project:
 
    ```bash
    git clone https://github.com/your-username/bank-management-system.git
-2.Navigate to the project directory:
+ 2.Navigate to the project directory:
+
     cd bank-management-system
-3.Compile the C files using a C compiler:
+ 3.Compile the C files using a C compiler:
+
     gcc -o bank_management_system main.c
-4.Run the program:
+ 4.Run the program:
+
     ./bank_management_system
 
 Usage
+
 Upon running the program, you’ll be presented with a menu to choose from various operations.
 To create a new account, select the appropriate option and provide personal details along with a password.
 Once logged in, you can deposit money, withdraw money, transfer funds, and update account details.
 Account details are saved to a file to maintain data persistence.
 
 Contributing
+
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
 Commit your changes (git commit -am 'Add new feature').
@@ -69,6 +74,7 @@ Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
 
 Acknowledgements
+
 Kalmesh -Developer
 
 
